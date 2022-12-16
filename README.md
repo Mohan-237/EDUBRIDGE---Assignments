@@ -2,4 +2,4 @@
 Edubridge Assingnment<br>
 <strong>Name : MOHAN</strong>
 
-<strong>RegNO:EBEON1122692779</strong>
+<strong>ENROLL.NO : EBEON1122692779</strong>
